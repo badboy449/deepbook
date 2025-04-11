@@ -1,5 +1,6 @@
 # deepbook.py
 
+
 class DeepPrice:
     def __init__(self, price, timestamp):
         self.price = price
